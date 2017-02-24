@@ -1,0 +1,7 @@
+*.pyc
+
+/tmp/*
+!/tmp/.gitkeep
+
+/config/*
+!/config/defaults/
